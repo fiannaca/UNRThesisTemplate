@@ -1,0 +1,17 @@
+Class: unrthesis v1.0
+
+This class is intended as a starting place for grad students who are beginning to 
+typeset their thesis/dissertation. The class was primarily developed and tested with
+the [master] flag set (rather than the [phd] flag). So if you are working on a Ph.D.
+dissertation, be sure to double check that the style conforms to all UNR Grad School
+style requirements.
+
+For instructions on options and available commands look at the documentation in the
+base/ directory and read the comments in the unrthesis.cls file.
+
+This template was developed and tested only using ShareLatex and the pdfLaTeX compiler. 
+No other configurations are supported, but most should work fine.
+
+For information on the grad school thesis requirements, see http://www.unr.edu/grad/forms/thesis-filing-guidelines
+
+For information on the grad school dissertation requirements, see http://www.unr.edu/grad/forms/dissertation-filing-guidelines
